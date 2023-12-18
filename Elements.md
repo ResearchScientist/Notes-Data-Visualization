@@ -1,16 +1,3 @@
-
-- overview
-- filter
-- details on demand
-
-# Uses
-
-- enable stakeholders to quickly understand relevant data in order to make informed decisions
-
-# Types
-
-- dashboards
-
 # Research
 
 Prior to making a visualization understand the following
@@ -40,4 +27,3 @@ Prior to making a visualization understand the following
 	- explanation : teaches new knowledge
 	- pitch : influences action
 	- drama : changes a belief
-

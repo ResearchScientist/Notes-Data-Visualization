@@ -1,4 +1,18 @@
+Dashboards are used for
 
+- sharing information
+	- communicating strategies and goals with stakeholders or public
+- tracking metrics
+	- progress
+	- solution finding
+
+Dashboards enable stakeholders to quickly understand relevant data in order to make informed decisions
+
+They provide
+
+- overviews
+- filters
+- details on demand
 
 # Dashboard Types
 
@@ -22,4 +36,4 @@ Both pull from the same data but present it differently.
 # Components
 
 - terms and definitions
-- 
+
