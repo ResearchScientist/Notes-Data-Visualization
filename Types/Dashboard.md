@@ -35,5 +35,20 @@ Both pull from the same data but present it differently.
 
 # Components
 
-- terms and definitions
+Things to include in addition to the charts and data
+- terms, acronyms and definitions
+- source of data
+
+# Research
+
+Understand
+- organizational needs
+- user needs
+- the data to be used
+
+Ask
+- who will use the data
+- how will they use the data
+- how often will it need to be refreshed
+- what filters will they need
 
