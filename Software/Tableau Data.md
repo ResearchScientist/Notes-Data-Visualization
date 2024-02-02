@@ -20,3 +20,8 @@ Data Model
 
 The data that tableau uses is independent from the data source.
 
+Colours
+- blue indicates discrete data
+- green indicates continuous data
+
+
