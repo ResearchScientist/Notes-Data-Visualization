@@ -3,7 +3,6 @@
 - data sheets : contain the data
 - worksheets : make visualizations
 - dashboards : contain visualizations and contextual information
-
 # Steps
 
 - connect data source
