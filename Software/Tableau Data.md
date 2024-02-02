@@ -14,3 +14,9 @@ File Types
 - structured : txt, csv, dat, sas, spss
 - unstructured : hadoop, mongodb
 
+Data Model
+- data pulled from the source
+- any modifications to pulled data
+
+The data that tableau uses is independent from the data source.
+
