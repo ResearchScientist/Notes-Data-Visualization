@@ -52,3 +52,36 @@ Ask
 - how often will it need to be refreshed
 - what filters will they need
 
+# Layout
+
+- each dashboard should have one specific point
+- arrange with purpose
+- arrange dashboards from general to specific
+- order dashboards by importance to users
+
+Ensure that the layout is inline with the story you are telling.
+for example by
+- showing progress towards a goal
+- illustrating a situation
+- helping users achieve goals
+
+# Format
+
+- descriptive title
+- clear legend
+- labels
+
+# Context
+
+To help user understanding include
+- a paragraph explaining why the data is important
+- notes that clarify data sources
+	- what it is
+	- where it was obtained
+	- when it was obtained
+	- how it was obtained
+- notes on what data sources reflect and don't reflect
+	- what is included and excluded
+	- how often it is refreshed , real time or at set intervals
+- glossary of terms usually industry bound
+- business catalog is a list of terms specific to the org

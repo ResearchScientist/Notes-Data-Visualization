@@ -41,3 +41,57 @@
 - where will the dashboard be hosted
 - what needs to be communicated to users prior to launching
 
+# Interactivity
+
+You can set a graph as a filter for other graphs within a dashboard.
+- right click graph
+- use as filter
+
+# Dynamic Updates
+
+parameter : variable representing a calculation value, filter, or reference line
+
+make a parameter
+- data pane dropdown , create parameter
+- right click on parameter , show parameter
+- data pane dropdown , create calculated field
+
+use a parameter
+- new worksheet
+- right click on parameter name , show parameter
+- choose row and column values
+- drag calculated field to color marks card
+- change values via parameter dropdown
+
+# Sharing Visualizations
+
+## Image
+
+Provides
+- static representation
+- snapshot of a moment in time
+
+Consider
+- colours
+- size
+
+Include
+- titles
+- legends
+- dates
+## Website Embed
+
+- interactivity
+- real time data
+## Local Server
+
+- customized access and permissions
+- information customized to different user groups
+
+# Prior to Launch
+
+- test dashboard across browsers and devices
+- prepare a rollout plan
+- prepare a communication plan
+	- clarify purpose and intention of the dashboard
+

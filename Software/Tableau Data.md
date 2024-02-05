@@ -1,9 +1,3 @@
-data sets as csv files
-- netflix
-- countries
-- genres
-- genrelookup
-
 Data Source
 - what access permissions are required
 - is the database public or private
@@ -24,4 +18,12 @@ Colours
 - blue indicates discrete data
 - green indicates continuous data
 
+# Connectivity
 
+can connect to flat files
+- csv
+- excel
+
+cannot connect to
+- databases
+- major platforms
