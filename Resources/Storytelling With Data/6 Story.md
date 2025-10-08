@@ -131,3 +131,74 @@ Best when the audience previously trusts you. This also makes it clear what lens
 - lead with the call to action
 - provide the critical validations for it
 
+# Repetition
+
+- Tell them what you're going to tell them.
+- Tell them.
+- Tell them what you told them.
+
+# Slide Deck Flow
+
+***Horizontal Logic***
+
+Each slide deck title contributes to the overall story you are communicating.
+
+- One of the first slides should be an executive summary.
+- Below the summary include a bulleted list of the upcoming slide titles in order.
+- Each title should be an action , not a description.
+
+Simply reading the slide titles should communicate the story to the audience.
+
+***Vertical Logic***
+
+All information on a particular slide is self reinforcing.
+
+- Title reinforces content.
+- Content reinforces title.
+- Visuals reinforce text.
+- Text reinforce visuals.
+
+There is no unrelated or extraneous information on any slide.
+
+***Reverse Storyboarding***
+
+Test if the flow of the completed slide deck matches your original storyboard.
+
+- For each slide write the main point or take away.
+- Compare with the original storyboard.
+- Decide if changes are necessitated.
+
+***Fresh Perspective***
+
+Show the slide deck to someone who lacks context.
+
+Ask
+
+- tell me what you pay attention to
+- what do you think is important
+- where do you have questions
+
+Their responses give you direction on where to iterate.
+
+# Talk Tips
+
+In a talk you control the frame.
+The topic, the pace, the level of engagement is all up to you.
+
+That's why at the beginning of the talk you must clearly articulate to the audience
+- the role you want them to play
+- the structure of the presentation
+
+To help prevent interruptions and impromptu questions let them know there will be a QA section at the end.
+"Jot down any questions you have as they come up and we will address any that haven't been answered at the end of the talk."
+
+When leading with the ask, inform the audience that you are starting with the ask, then outline the structure of the presentation for them. This helps them view the presentation with the appropriate lens.
+"Today, I'm going to start with what we're asking of you. We performed robust analysis that led to this conclusion. We weighted several solutions. I will walk you through this process. Before I do, I want to spotlight what we're asking of you. Which is . . . "
+
+# Silent Deck Tips
+
+When sending out your slide deck for those who didn't attend, it's imperative to explicitly provide the context for the talk.
+
+In addition, each slide should be accompanied with an explanation of its key take away.
+
+If there was a QA session in the presentation, include a list of the QAs addressed with the slide deck.
