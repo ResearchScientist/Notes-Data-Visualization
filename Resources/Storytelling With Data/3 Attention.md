@@ -2,9 +2,9 @@ Focus attention where you want it.
 
 # Memory
 
-- [Iconic](4%20Attention.md##Iconic)
-- [Short Term](4%20Attention.md##Short%20Term)
-- [Long Term](4%20Attention.md##Long%20Term)
+- [Iconic](3%20Attention.md##Iconic)
+- [Short Term](3%20Attention.md##Short%20Term)
+- [Long Term](3%20Attention.md##Long%20Term)
 
 ## *Iconic*
 
